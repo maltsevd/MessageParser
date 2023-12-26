@@ -24,7 +24,7 @@ The bot is designed to process messages and images sent to it on Telegram, extra
 ### Installing
 
 - Clone the repository
-- Install the necessary packages using `pip install -r requirements.txt` (assuming a requirements.txt file is present)
+- Install the necessary packages using `pip install -r requirements.txt` or with poetry using `poetry init` in the project folder.
 
 ### Executing program
 
